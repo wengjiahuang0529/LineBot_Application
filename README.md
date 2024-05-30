@@ -11,14 +11,14 @@
 • Mainly modify this file
 
 **<h2>Spec</h2>**
-• Design the scenario  
+**• Design the scenario ** 
         1. Reply：the status of machines, the information of something, the location of something, etc.  
         2. Recommendation： Restaurants, Movies, Attractions, etc.  
         3. Other：Game …  
     
-• IoTtalk  
+**• IoTtalk  **
         • Design your own Device Model (at least one)  
     
-• LineBot  
+**• LineBot  **
         • Your LineBot need to interact with IoTtalk(send/receive data to/from IoTtalk)  
         • You can modify ‘app.py’ to finish mini project 4  
