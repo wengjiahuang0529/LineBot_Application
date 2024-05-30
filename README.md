@@ -29,7 +29,7 @@
    * You need to sign up and follow the instruction on the download page to add authtoken.
      
 ---
-**How to operate**
+**<h2>How to operate</h2>**
 1. Use Iottalk to add project :
 ![image](https://github.com/wengjiahuang0529/LineBot_PredictStock/assets/96289978/a80f1189-8d82-483d-8f22-2f672415ea22)
 
@@ -41,7 +41,6 @@ After executing, when you type in this Line channel, you'll see it echo back exa
 4. Ngrok，it provides a service that helps developers share sites and apps running on their local machines or
 servers.
    * Start a tunnel : ngrok http port
-5.
-![image](https://github.com/wengjiahuang0529/LineBot_PredictStock/assets/96289978/0811af62-d190-4730-aefc-476b1d546a60)
+5.![image](https://github.com/wengjiahuang0529/LineBot_PredictStock/assets/96289978/0811af62-d190-4730-aefc-476b1d546a60)
 
 
