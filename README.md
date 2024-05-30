@@ -34,10 +34,17 @@
 After executing, when you type in this Line channel, you'll see it echo back exactly what you typed.
 
 4. Ngrok，it provides a service that helps developers share sites and apps running on their local machines or
-servers.  
+servers.
+
+Start a tunnel : ngrok http <YOUR PORT>
+
 Preliminary  
 • Line Account (https://developers.line.biz/en/)  
 • Ngrok (https://ngrok.com/download)
    * You need to sign up and follow the instruction on the download page to add authtoken
+
+
+5.
+![image](https://github.com/wengjiahuang0529/LineBot_PredictStock/assets/96289978/0811af62-d190-4730-aefc-476b1d546a60)
 
 
