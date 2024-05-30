@@ -38,7 +38,6 @@ servers.
 Preliminary  
 • Line Account (https://developers.line.biz/en/)  
 • Ngrok (https://ngrok.com/download)
-
-• You need to sign up and follow the instruction on the download page to add authtoken
+  > You need to sign up and follow the instruction on the download page to add authtoken
 
 
