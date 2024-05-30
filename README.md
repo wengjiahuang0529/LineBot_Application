@@ -33,12 +33,11 @@
 3. You can run linebot_echo.py, but you need to change the token and secret to your own.You can apply for these at [Line Developers](https://developers.line.biz/en/).  
 After executing, when you type in this Line channel, you'll see it echo back exactly what you typed.
 
-4. Need Ngrok，Ngrok provides a service that helps developers share sites and apps running on their local machines or
+4. Ngrok，it provides a service that helps developers share sites and apps running on their local machines or
 servers.  
 Preliminary  
 • Line Account (https://developers.line.biz/en/)  
 • Ngrok (https://ngrok.com/download)
-
 
 • You need to sign up and follow the instruction on the download page to add authtoken
 
