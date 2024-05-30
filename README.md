@@ -21,4 +21,8 @@
 
 **• LineBot**  
 > • Your LineBot need to interact with IoTtalk(send/receive data to/from IoTtalk)  
-> • You can modify ‘app.py’ to finish mini project 4  
+> • You can modify ‘app.py’ to finish mini project 4
+
+---
+
+
