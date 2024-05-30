@@ -23,10 +23,10 @@
 > • Your LineBot need to interact with IoTtalk(send/receive data to/from IoTtalk)  
 > • You can modify ‘app.py’ to finish mini project 4
 
-Preliminary  
+**Preliminary**  
 • Line Account (https://developers.line.biz/en/)  
 • Ngrok (https://ngrok.com/download)
-   * You need to sign up and follow the instruction on the download page to add authtoken.
+    * You need to sign up and follow the instruction on the download page to add authtoken.
      
 ---
 **How to operate**
