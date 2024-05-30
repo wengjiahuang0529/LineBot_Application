@@ -23,6 +23,11 @@
 > • Your LineBot need to interact with IoTtalk(send/receive data to/from IoTtalk)  
 > • You can modify ‘app.py’ to finish mini project 4
 
+Preliminary  
+• Line Account (https://developers.line.biz/en/)  
+• Ngrok (https://ngrok.com/download)
+   * You need to sign up and follow the instruction on the download page to add authtoken.
+     
 ---
 **How to operate**
 1. Use Iottalk to add project :
@@ -36,13 +41,6 @@ After executing, when you type in this Line channel, you'll see it echo back exa
 4. Ngrok，it provides a service that helps developers share sites and apps running on their local machines or
 servers.
    * Start a tunnel : ngrok http port
-
-Preliminary  
-• Line Account (https://developers.line.biz/en/)  
-• Ngrok (https://ngrok.com/download)
-   * You need to sign up and follow the instruction on the download page to add authtoken
-
-
 5.
 ![image](https://github.com/wengjiahuang0529/LineBot_PredictStock/assets/96289978/0811af62-d190-4730-aefc-476b1d546a60)
 
