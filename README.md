@@ -24,5 +24,8 @@
 > • You can modify ‘app.py’ to finish mini project 4
 
 ---
+**How to operate**
+1. Use Iottalk to add project :
+![image](https://github.com/wengjiahuang0529/LineBot_PredictStock/assets/96289978/a80f1189-8d82-483d-8f22-2f672415ea22)
 
-
+2. 
