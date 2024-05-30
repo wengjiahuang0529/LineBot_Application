@@ -35,7 +35,7 @@ After executing, when you type in this Line channel, you'll see it echo back exa
 
 4. Ngrok，it provides a service that helps developers share sites and apps running on their local machines or
 servers.
-  * Start a tunnel : ngrok http <YOUR PORT>
+   * Start a tunnel : ngrok http <YOUR PORT>
 
 Preliminary  
 • Line Account (https://developers.line.biz/en/)  
