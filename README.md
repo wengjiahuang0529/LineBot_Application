@@ -30,4 +30,5 @@
 
 2. When you run python app.py, you will see the device name. IoTtalk's device needs to connect to this name.
 
-3. You can run linebot_echo.py, but you need to change the token and secret to your own.  You can apply for these at [Line Developers](https://developers.line.biz/en/). After executing, when you type in this Line channel, you'll see it echo back exactly what you typed.
+3. You can run linebot_echo.py, but you need to change the token and secret to your own.  
+You can apply for these at [Line Developers](https://developers.line.biz/en/). After executing, when you type in this Line channel, you'll see it echo back exactly what you typed.
