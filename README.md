@@ -16,7 +16,7 @@
 2. Recommendation： Restaurants, Movies, Attractions, etc.  
 3. Other：Game …
    
-**• IoTtalk**  
+**• IoTtalk**   
 • Design your own Device Model (at least one) 
 
 **• LineBot**  
