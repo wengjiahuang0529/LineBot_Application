@@ -42,6 +42,7 @@ After executing, when you type in this Line channel, you'll see it echo back exa
 servers.
    * Start a tunnel : ngrok http port  
 
-5.![image](https://github.com/wengjiahuang0529/LineBot_PredictStock/assets/96289978/0811af62-d190-4730-aefc-476b1d546a60)
+5. Message API Settings
+![image](https://github.com/wengjiahuang0529/LineBot_PredictStock/assets/96289978/0811af62-d190-4730-aefc-476b1d546a60)
 
 
