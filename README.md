@@ -28,4 +28,6 @@
 1. Use Iottalk to add project :
 ![image](https://github.com/wengjiahuang0529/LineBot_PredictStock/assets/96289978/a80f1189-8d82-483d-8f22-2f672415ea22)
 
-2. 
+2. When you run python app.py, you will see the device name. IoTtalk's device needs to connect to this name.
+
+3. You can run linebot_echo.py, but you need to change the token and secret to your own. You can apply for these at [Line Developers](https://developers.line.biz/en/). After executing, when you type in this Line channel, you'll see it echo back exactly what you typed.
