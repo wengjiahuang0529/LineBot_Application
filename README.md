@@ -5,22 +5,22 @@
 ![image](https://github.com/wengjiahuang0529/LineBot_Application/assets/96289978/c7e6a4df-2336-4d22-8269-c23154cea998)
 
 **<h3>linebot_echo.py</h3>**
-   • LineBot’s sample code for echo response  
+   - LineBot’s sample code for echo response  
 
 **<h3>csmapi.py/DAN.py</h3>**
-   • Some useful APIs about IoTtalk connection  
-   • Don’t need to modify them
+   - Some useful APIs about IoTtalk connection  
+   - Don’t need to modify them
 **<h3>app_copy.py</h3>**
-   • Mainly modify this file
+   - Mainly modify this file
 
 **<h3>earthquake.py</h3>**
-   • get earthquake info
+   - get earthquake info
 
 **<h3>weather.py</h3>**
-   • get weather info
+   - get weather info
 
 **<h3>stock.py</h3>**
-   • predict stock
+   - predict stock
 
 **<h2>Spec</h2>**
 **• Design the scenario**  
