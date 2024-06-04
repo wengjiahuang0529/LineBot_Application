@@ -4,23 +4,23 @@
 3.Earthquake Monitoring 🌐  
 ![image](https://github.com/wengjiahuang0529/LineBot_Application/assets/96289978/c7e6a4df-2336-4d22-8269-c23154cea998)
 
-**<h2>linebot_echo.py</h2>**
-• LineBot’s sample code for echo response  
+**<h3>linebot_echo.py</h3>**
+  • LineBot’s sample code for echo response  
 
-**<h2>csmapi.py/DAN.py</h2>**
-• Some useful APIs about IoTtalk connection  
-• Don’t need to modify them
-**<h2>app_copy.py</h2>**
-• Mainly modify this file
+**<h3>csmapi.py/DAN.py</h3>**
+  • Some useful APIs about IoTtalk connection  
+  • Don’t need to modify them
+**<h3>app_copy.py</h3>**
+  • Mainly modify this file
 
-**<h2>earthquake.py</h2>**
-• get earthquake info
+**<h3>earthquake.py</h3>**
+  • get earthquake info
 
-**<h2>weather.py</h2>**
-• get weather info
+**<h3>weather.py</h3>**
+  • get weather info
 
-**<h2>stock.py</h2>**
-• predict stock
+**<h3>stock.py</h3>**
+  • predict stock
 
 **<h2>Spec</h2>**
 **• Design the scenario**  
