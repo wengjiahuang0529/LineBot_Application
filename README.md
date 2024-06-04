@@ -10,8 +10,17 @@
 **<h2>csmapi.py/DAN.py</h2>**
 • Some useful APIs about IoTtalk connection  
 • Don’t need to modify them
-**<h2>app.py</h2>**
+**<h2>app_copy.py</h2>**
 • Mainly modify this file
+
+**<h2>earthquake.py</h2>**
+• get earthquake info
+
+**<h2>weather.py</h2>**
+• get weather info
+
+**<h2>stock.py</h2>**
+• predict stock
 
 **<h2>Spec</h2>**
 **• Design the scenario**  
