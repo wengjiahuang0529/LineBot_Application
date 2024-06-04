@@ -1,7 +1,7 @@
 # LineBot:
-Stock Prediction 📊  
-Weather Check 🌦️  
-Earthquake Monitoring 🌐  
+1.Weather Check 🌦️  
+2.Stock Prediction 📊  
+3.Earthquake Monitoring 🌐  
 ![image](https://github.com/wengjiahuang0529/LineBot_Application/assets/96289978/c7e6a4df-2336-4d22-8269-c23154cea998)
 
 **<h2>linebot_echo.py</h2>**
