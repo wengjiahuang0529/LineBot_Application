@@ -1,6 +1,8 @@
 # LineBot_PredictStock
 ![image](https://github.com/wengjiahuang0529/LineBot_PredictStock/assets/96289978/cc2e8b1e-5c86-4b3c-afe0-9795f447d62e)
 
+More Application can check branch : [version2](https://github.com/wengjiahuang0529/LineBot_Application/tree/version2)
+
 **<h2>linebot_echo.py</h2>**
    - LineBot’s sample code for echo response  
 
@@ -46,6 +48,4 @@ servers.
 5. Message API Settings
 ![image](https://github.com/wengjiahuang0529/LineBot_PredictStock/assets/96289978/0811af62-d190-4730-aefc-476b1d546a60)
 
-
-More Application can check branch : [version2](https://github.com/wengjiahuang0529/LineBot_Application/tree/version2)
 
