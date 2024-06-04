@@ -47,5 +47,5 @@ servers.
 ![image](https://github.com/wengjiahuang0529/LineBot_PredictStock/assets/96289978/0811af62-d190-4730-aefc-476b1d546a60)
 
 
-More Application can check ![branch : version2](https://github.com/wengjiahuang0529/LineBot_Application/tree/version2)
+More Application can check [branch : version2](https://github.com/wengjiahuang0529/LineBot_Application/tree/version2)
 
